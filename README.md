@@ -54,14 +54,6 @@ This project builds a **machine learning pipeline** to predict whether a patient
 - ❤️ Improves quality of care by identifying **at-risk patients earlier**  
 - 📊 Provides a **scalable framework** for predictive healthcare analytics  
 
----
-
-## 📎 Repository Structure  
-├── data/ # Dataset (link or instructions to download)
-├── notebooks/ # Jupyter notebooks for EDA & modeling
-├── src/ # Source code for preprocessing & models
-├── results/ # Output metrics, charts, confusion matrix
-└── README.md # Project documentation
 
 
 ---
